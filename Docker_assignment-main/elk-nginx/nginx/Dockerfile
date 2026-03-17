@@ -1,5 +1,0 @@
-FROM nginx:latest
-
-RUN mkdir -p /var/log/nginx
-
-EXPOSE 80
